@@ -26,4 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hodini007&show_icons=true&locale=en" alt="hodini007" /></p>
 
+<p><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/raiyanrohit10.png" alt="Your Image Badge" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hodini007&" alt="hodini007" /></p>
