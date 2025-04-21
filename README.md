@@ -61,6 +61,8 @@
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40" alt="Zapier" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hodini007&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
